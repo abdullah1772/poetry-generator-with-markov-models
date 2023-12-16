@@ -1,0 +1,6 @@
+collections
+matplotlib
+nltk
+numpy
+pandas
+seaborn
